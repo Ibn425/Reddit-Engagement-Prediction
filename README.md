@@ -2,7 +2,7 @@
 
 > Pipeline Machine Learning complet pour prédire le niveau d'engagement d'un post Reddit et générer des recommandations personnalisées — développé en L3 Informatique à l'Université Paris Cité.
 
-
+[![App Live](https://img.shields.io/badge/🚀_App_Live-Streamlit-FF4B4B)](https://ibn425-reddit-engagement-prediction-app-uubkfl.streamlit.app)
 
 ---
 
